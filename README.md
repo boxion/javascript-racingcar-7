@@ -1,6 +1,6 @@
 # javascript-racingcar-precourse
 
-# 초간단 자동차 경주 게임
+# 자동차 경주
 
 ## 기능 요구 사항
 
